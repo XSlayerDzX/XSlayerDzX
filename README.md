@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdelmalek Hissous.
 
-<!--
-**XSlayerDzX/XSlayerDzX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS student | 🤖 Aspiring Machine Learning Specialist 
 
-Here are some ideas to get you started:
+I'm currently on a structured journey to master machine learning in 2–3 years.
+This summer, I'm dedicating 3 hours/day to study, practice, and build real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- Python, NumPy, Pandas
+- Scikit-learn & ML Foundations
+- Kaggle Projects & Competitions
+
+### 🛠️ Projects & Learning Logs
+- [NumPy Basics Notebook](link)
+- More coming soon!
+
+### 📬 Let's connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelmalek-hissous-835991340/)
