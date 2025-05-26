@@ -12,6 +12,7 @@ This summer, I'm dedicating 3 hours/day to study, practice, and build real proje
 
 ### 🛠️ Projects & Learning Logs
 - [NumPy Basics Notebook](https://github.com/XSlayerDzX/Ml-learning-path/tree/main/NumPy)
+- [Pandas Basics Notebook](https://github.com/XSlayerDzX/Ml-learning-path/tree/main/Pandas)
 - More coming soon!
 
 ### 📬 Let's connect
