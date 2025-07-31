@@ -11,8 +11,7 @@ This summer, I'm dedicating 3 hours/day to study, practice, and build real proje
 - Kaggle Projects & Competitions
 
 ### 🛠️ Projects & Learning Logs
-- [NumPy Basics Notebook](https://github.com/XSlayerDzX/Ml-learning-path/tree/main/NumPy)
-- [Pandas Basics Notebook](https://github.com/XSlayerDzX/Ml-learning-path/tree/main/Pandas)
+- Full Pipeline Including Deployment of a House Prediction Model [soon]
 - More coming soon!
 
 ### 📬 Let's connect
