@@ -11,7 +11,7 @@ This summer, I'm dedicating 3 hours/day to study, practice, and build real proje
 - Kaggle Projects & Competitions
 
 ### 🛠️ Projects & Learning Logs
-- Full Pipeline Including Deployment of a House Prediction Model [soon]
+- Full Pipeline Including Deployment of a House Prediction Model [https://github.com/XSlayerDzX/house-price-ml-pipeline]
 - More coming soon!
 
 ### 📬 Let's connect
