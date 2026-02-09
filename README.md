@@ -11,7 +11,7 @@ I'm currently on a structured journey to master machine learning in 2–3 years.
 
 ### 🛠️ Projects & Learning Logs
 - Full Pipeline Including Deployment of a House Prediction Model [https://github.com/XSlayerDzX/house-price-ml-pipeline]
-- More coming soon!
+- Ml_Microservice For Anomalie Detection [https://github.com/XSlayerDzX/Ml_Microservice_Anomaly_Detection]
 
 ### 📬 Let's connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abdelmalek-hissous-835991340/)
