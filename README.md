@@ -2,7 +2,7 @@
 
 **CS Student @ ESI-SBA · Machine Learning & Reinforcement Learning**
 
-I just wrapped up my second year of preparatory school with a project I'm genuinely proud of —
+I just wrapped up with a project I'm genuinely proud of —
 building an autonomous Clash Royale AI agent from scratch, paired with a full web platform to monitor it.
 Currently deepening my foundations in ML, CV, and RL while working on whatever grabs my attention next.
 
